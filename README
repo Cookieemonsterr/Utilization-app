@@ -1,0 +1,12 @@
+# QC Utilization Summary Tool
+
+This Streamlit web app generates a utilization summary from the *QC Team Daily Tracker*  
+and optionally fills the *QC Utilization Report* template automatically.
+
+## How to use
+1. Upload the **QC Team Daily Tracker.xlsx**
+2. (Optional) Upload the **QC Utilization Report.xlsx**
+3. Click **Generate Summary**
+4. Download the filled report or summary
+
+Built for internal QC reporting.
